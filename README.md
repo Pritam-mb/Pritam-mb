@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0f0c29&height=260&section=header&text=Pritam%20Patra&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Engineer%20|%20Building%20Autonomous%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Pritam%20Patra&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20and%20AI%20Engineer%20|%20Building%20Autonomous%20Systems&descAlignY=52&descSize=18" width="100%"/>
 
 <a href="https://pritam-ochre.vercel.app">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Turning+ideas+into+shipped+products+%E2%9A%A1;3rd+Year+B.Tech+CSE+%40+GNIT+%7C+CGPA+8.90;Building+Scalable+Web+%2B+Autonomous+AI+Agents+%F0%9F%A4%96;Open+For+Work+%F0%9F%9F%A2" alt="Typing SVG"/>
