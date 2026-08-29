@@ -27,7 +27,7 @@
 <!-- ============ ABOUT ============ -->
 ### 🧠 About Me
 
-```yaml
+
 name: Pritam Patra
 role: Full-Stack and AI Engineer
 education: "B.Tech CSE, Guru Nanak Institute of Technology (2024–Present) | CGPA: 8.90"
