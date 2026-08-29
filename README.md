@@ -1,5 +1,8 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Pritam%20Patra&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20and%20AI%20Engineer%20|%20Building%20Autonomous%20Systems&descAlignY=52&descSize=18" width="100%"/>
+
+<br/>
 
 <a href="https://pritam-ochre.vercel.app">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Turning+ideas+into+shipped+products+%E2%9A%A1;3rd+Year+B.Tech+CSE+%40+GNIT+%7C+CGPA+8.90;Building+Scalable+Web+%2B+Autonomous+AI+Agents+%F0%9F%A4%96;Open+For+Work+%F0%9F%9F%A2" alt="Typing SVG"/>
@@ -19,6 +22,10 @@
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Pritam-mb&label=Repos&query=public_repos&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e)
 ![Profile Views](https://komarev.com/ghpvc/?username=Pritam-mb&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 </div>
 
 <br/>
@@ -26,10 +33,6 @@
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <br/>
-
-<table>
-<tr>
-<td width="60%" valign="top">
 
 ### 🧠 About Me
 
@@ -44,12 +47,15 @@ fun_fact: "I ship faster than my coffee gets cold ☕"
 
 I'm a third-year CSE student passionate about building highly scalable web architectures and integrating autonomous AI agents to solve real-world problems. Currently juggling hackathons, RAG pipelines, and computer vision models — sometimes all in the same week.
 
-</td>
-<td width="40%">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
-</td>
-</tr>
-</table>
+<br/>
+
+<div align="center">
+
+### 💻 Currently Coding
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="60%"/>
+
+</div>
 
 <br/>
 
