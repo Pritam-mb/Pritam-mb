@@ -16,6 +16,7 @@
 <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 <br/><br/>
+<br><br/>
 
 ![Followers](https://img.shields.io/github/followers/Pritam-mb?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e)
 ![Stars](https://img.shields.io/github/stars/Pritam-mb?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e)
@@ -78,9 +79,10 @@ I'm a third-year CSE student passionate about building highly scalable web archi
 
 <br/>
 
+
 ### 🏆 Trophy Cabinet
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pritam-mb&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
+<img src="https://github-trophies.vercel.app/?username=Pritam-mb&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
 </div>
 
 <br/>
