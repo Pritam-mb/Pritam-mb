@@ -1,5 +1,5 @@
 
-```markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Pritam%20Patra&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20and%20AI%20Engineer%20|%20Building%20Autonomous%20Systems&descAlignY=52&descSize=18" width="100%"/>
